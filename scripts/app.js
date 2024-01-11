@@ -123,8 +123,7 @@ Game.GameConst = {
   "VERSION": "1.4.0"
 }
 
-Game.units = [
-      "Million",
+Game.units = [      "Million",
       "Billion",
       "Trillion",
       "Quadrillion",
@@ -153,7 +152,38 @@ Game.units = [
       "Septvigintillion",
       "Octovigintillion",
       "Novemvigintillion",
-      "Trigintillion"
+      "Trigintillion",
+      "Wastetillion",
+      "Good Enough(E+)",
+      "SolarWorld",
+      "TryHard",
+      "Oltra",
+      "Wertillion",
+      "nistillion",
+      "GGAHevigintillion",
+      "Oniintillion",
+      "Lastigintillion",
+      "Cubeigintillion(E+)",
+      "GODDEST",
+      "Hungteversal",
+      "Hardcore",
+      "HardcoreTier1",
+      "HardcoreTier2",
+      "HardcoreTier3",
+      "HardcoreMax",
+      "Zacky",
+      "ZackyTier1",
+      "ZackyTier2",
+      "ZackyTier3",
+      "GoogolTier1",
+       "GoogolTier2",
+      "GoogolTier3",
+      "GoogolTier4",
+      "GoogolMax",
+      "GoogolPlexTier1",
+      "GoogolPlexTier2",
+      "Max"
+
 ]
 
 
